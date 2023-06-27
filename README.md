@@ -5,19 +5,14 @@
 
 - 💬 Ask me about **Next.js, React.js, Redux, RTK Query, JavaScript, TypeScribt, Jquery, pug.js, HTML5, Css3, Sass, Tailwind, Bootstrab.**
 
-- 📫 How to reach me **dev.ahmed666@gmail.com**
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **contact@dev-ahmed.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devahmedsixsixsix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devahmedsixsixsix" height="30" width="40" /></a> 
 <a href="https://fb.com/ahmed.elpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.elpa" height="30" width="40" /></a>
-<a href="https://instagram.com/dev.ahmedsixsixsix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.ahmedsixsixsix" height="30" width="40" /></a>
-<a href="https://twitter.com/devahmed666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devahmed666" height="30" width="40" /></a>
+<a href="https://instagram.com/dev.ahmed666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.ahmedsixsixsix" height="30" width="40" /></a>
+<a href="https://twitter.com/dev_Ahmed666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devahmed666" height="30" width="40" /></a>
 <a href="https://www.behance.net/5ccf4b76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="5ccf4b76" height="30" width="40" /></a>
 <a href="https://dribbble.com/devahmedsixsixsix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devahmedsixsixsix" height="30" width="40" /></a>
 <a href="https://codepen.io/devahmedsixsixsix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devahmedsixsixsix" height="30" width="40" /></a>
