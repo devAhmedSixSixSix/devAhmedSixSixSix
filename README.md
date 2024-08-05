@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev / Ahmed Mohamed</h1>
 <h3 align="center">Front-End Developer, I am a highly adaptable and versatile professional looking to transition into the field of front-end web development. As a junior developer, I may not have extensive experience yet, but what I lack in experience, I make up for in passion and drive to learn. I am deeply passionate about creating responsive and beautiful websites using modern JavaScript, and I am constantly seeking to improve my skills and knowledge in this field. I am a quick learner and a team player, and I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact. I am looking for an opportunity to join a company where I can grow and learn as a front-end developer and where I can put my skills to use in real-world projects.</h3>
 
-<p align="left"> <a href="https://twitter.com/dev_Ahmed666" target="blank"><img src="https://img.shields.io/twitter/follow/dev_Ahmed666?logo=twitter&style=for-the-badge" alt="devahmed666" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/dev_Ahmed666?logo=twitter&style=for-the-badge" alt="devahmed666" /></a> </p>
 
 - 💬 Ask me about **Next.js, React.js, Redux, RTK Query, JavaScript, TypeScribt, Jquery, pug.js, HTML5, Css3, Sass, Tailwind, Bootstrab.**
 
